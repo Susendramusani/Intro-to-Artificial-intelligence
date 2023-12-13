@@ -3,6 +3,8 @@ Introduction:
 
 A two-player game called Tic Tac Toe can be played on any square grid. In the zero-sum game of Tic Tac Toe, player 1's victory equals player 2's loss. Typically, it involves playing the grid and placing either X or O. Player 2 receives key O if Player 1 receives key X. A player wins if they are able to complete their key in every cell in every row, column, and diagonal.
 
+![AI PROJECT](https://github.com/susendra143/Implementation-of-Multiple-Tic-Tac-Toe-Agents-in-a-Tournament-Setting/assets/145168825/b5877d3b-840b-42f1-8624-a11b149e17b0)
+
 
 Algorithms used:
 
