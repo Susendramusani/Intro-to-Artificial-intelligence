@@ -1,5 +1,5 @@
 
-## Introduction:
+# Introduction: #
 
 A two-player game called Tic Tac Toe can be played on any square grid. In the zero-sum game of Tic Tac Toe, player 1's victory equals player 2's loss. Typically, it involves playing the grid and placing either X or O. Player 2 receives key O if Player 1 receives key X. A player wins if they are able to complete their key in every cell in every row, column, and diagonal.
 
@@ -10,12 +10,16 @@ A two-player game called Tic Tac Toe can be played on any square grid. In the ze
 
 Four Agents have been created by us to compete with one another.
 
-Adversarial search Algorithms::
+# Adversarial search Algorithms:: #
+
 Minimax Agent
+
 Alpha beta Minimax Agent
+
 Expectimax Agent
 
 Reinforcement Learning Algorithm::
+
 Q-Learning Agent
 
 # Minimax Algorithm:
@@ -37,9 +41,13 @@ The Q-Learning method is based on reinforcement learning, and at first, the agen
 # Code execution instructions:
 
 Run the file Implementation of Multiple Tic-Tac-Toe Agents in a Tournament Setting.py
+
 Enter agent1 and agent2 as shown in the console (without typos) and see how the agents play.
+
 Keep an eye on the incentives and the grading system.
+
 Run multiple times and check with multiple agents to compare which agent plays the game better.
+
 Make sure you select 2 different agents for Tic-Tac-Toe game.
 
 
