@@ -51,7 +51,7 @@ Run multiple times and check with multiple agents to compare which agent plays t
 
 Make sure you select 2 different agents for Tic-Tac-Toe game.
 
-# Referance 
+# Reference 
 1. https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/
 2. https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 3. https://www.datacamp.com/tutorial/introduction-q-learning-beginner-tutorial
